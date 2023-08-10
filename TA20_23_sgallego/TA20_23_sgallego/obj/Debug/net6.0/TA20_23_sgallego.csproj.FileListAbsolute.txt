@@ -1,0 +1,14 @@
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\bin\Debug\net6.0\TA20_23_sgallego.exe
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\bin\Debug\net6.0\TA20_23_sgallego.deps.json
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\bin\Debug\net6.0\TA20_23_sgallego.runtimeconfig.json
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\bin\Debug\net6.0\TA20_23_sgallego.dll
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\bin\Debug\net6.0\TA20_23_sgallego.pdb
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\TA20_23_sgallego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\TA20_23_sgallego.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\TA20_23_sgallego.AssemblyInfo.cs
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\TA20_23_sgallego.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\TA20_23_sgallego.dll
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\refint\TA20_23_sgallego.dll
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\TA20_23_sgallego.pdb
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\TA20_23_sgallego.genruntimeconfig.cache
+C:\Users\sergi\source\repos\TA20_23_sgallego\TA20_23_sgallego\obj\Debug\net6.0\ref\TA20_23_sgallego.dll
